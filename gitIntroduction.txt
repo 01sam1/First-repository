@@ -2,3 +2,4 @@ hello my git
 i done my first commit
 i done my second commit
 
+i am going to for 3rd commit
