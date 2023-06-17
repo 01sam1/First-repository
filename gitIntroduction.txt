@@ -1,2 +1,4 @@
 hello my git
 i done my first commit
+i done my second commit
+
